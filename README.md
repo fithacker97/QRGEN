@@ -6,7 +6,7 @@ This project allows users to generate QR codes instantly for any text or URL inp
 Deployed seamlessly on **Render** 🚀.
 
 ---
-
+NEW UPDATES EVERY MONTH !!
 ## 🌐 Live Demo
 
 🔗 **Visit here:** [QRCODEGEN.com](https://qrgen-fyma.onrender.com/)
